@@ -1,0 +1,97 @@
+*{
+    box-sizing:border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+h1{
+    color: green;
+}
+
+p{
+    color: brown;
+}
+
+
+
+#menu{
+    background-color: rgb(148, 10, 40);
+    width: auto;
+   color: #fff;
+    padding: 15px 50px;
+    text-align: right;
+    border-radius: 5px;
+}
+
+#menu a{
+    text-decoration: none;
+    color
+    
+    : #fff;
+    font-weight: 600;
+    background-color: rgb(8, 8, 126);
+    padding: 5px 10px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+#menu a:hover{
+    background-color: rgb(223, 235, 61);
+}
+
+#hero{
+    background-color: rgb(3, 3, 94);
+    height: 400px;
+    width: auto;
+    margin-top: 5px;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+#hero h1{
+    color: #fff;
+    font-size: 60px;
+}
+#hero p{
+    color: #fff;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+#hero a{
+    background-color: blue;
+    color: #fff;
+    text-decoration: none;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 30px ;
+    display: inline-block;
+}
+#hero a:hover{
+    background-color: rgb(90, 90, 230);
+}
+
+#course{
+margin-top: 50px;
+text-align: center;
+}
+
+#course h1{
+    text-align: center;
+    color: rgb(8, 8, 53);
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+#course img{
+    height: 200px;
+    margin: 0 5px;
+    border-radius: 5px;
+}
